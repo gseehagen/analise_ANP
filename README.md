@@ -2,7 +2,7 @@
 
 ## Description:
 
-This script performs an exploratory data analysis of fuel sales data (diesel, gasoline, ethanol) from Brazil's National Petroleum Agency (ANP). The goal is to identify trends, seasonal patterns, and consumption differences among Brazilian states (DF, GO, MA, MT, MG, PA, SP, TO.)
+This script performs an exploratory data analysis of fuel sales data (diesel, gasoline, ethanol) from Brazil's National Petroleum Agency (ANP). The primary goal was to identify trends, seasonal patterns, and consumption differences among Brazilian states.
 
 **Analysis Structure:**
 
@@ -28,7 +28,7 @@ Recent Analysis and Conclusions: Focuses on the trend of the last 5 years and su
 
 **How to run**:
 
-1. Install the required libraries (pip install pandas matplotlib statsmodels).
+1. Install the dependencies: pip install -r requirements.txt
 
 2. Make sure the file vendas_distribuidoras_anp 1 (3).xlsx is located in a subfolder/data
 
