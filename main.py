@@ -247,7 +247,7 @@ plt.show()
 
 # No geral, o mercado de combustíveis analisado tem volatilidade própria, que deve ser levada em conta na estratégia da empresa.
 #
-# (Tive a ideia de fazer o gráfico de análise da sazonalidade por tipo de combustível, mas envolveria normalizar os dados, conceito que não domino com clareza ainda)
+# (Tive a ideia de fazer o gráfico de análise da sazonalidade por tipo de combustível, mas envolveria normalizar os dados, conceito que não domino com clareza ainda, então decidi não arriscar.
 #
 # Caso a empresa apresente interesse em se integrar e explorar o nicho de fornecimento de combustível para o agronegócio, recomenda-se acompanhar assiduamente as safras das commodities agrícolas de importância nas regiões de fornecimento.
 # %%
